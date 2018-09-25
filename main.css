@@ -43,7 +43,8 @@ h6 {
 }
 
 .description__productCard {
-    text-align: justify
+    text-align: justify;
+    padding: 10px;
 }
 
 .image__bioCard {
