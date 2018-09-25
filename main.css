@@ -1,0 +1,58 @@
+header {
+    background-color: maroon;
+    padding: 40px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-style: bold;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h6 {
+    color: white;
+    text-align: center;
+    font-style: bold;
+    text-transform: uppercase;
+}
+
+#cardContainer {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.bioCard {
+    background-color: bisque;
+    width: 48%;
+    margin: 1%;
+    text-align: center;
+}
+
+.header__productCard {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.description__productCard {
+    text-align: justify;
+    padding: 10px;
+}
+
+.image__bioCard {
+    max-width: 100%;
+    transform: rotate3d(90deg);
+}
+
+footer {
+    background-color: slategrey;
+    padding: 5px;
+}
