@@ -11,7 +11,7 @@
 
 ## How to run this project:
 
-* Use nmp to install htpp-server:
+* Use nmp to install http-server:
 
 ```sh
 
